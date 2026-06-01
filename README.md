@@ -18,9 +18,11 @@ I’m Valentin, a junior full-stack developer based in France.
 
 I am currently working on personal projects, but I am open to work opportunities.
 
+I also worked on two professional projects: one involving a worker architecture system, and another involving a SQL database along with an application designed to interact with it efficiently.
+
 I have worked on multiple academic projects, such as a Blackjack game in Python and a Java project (K3). I have also completed several database-related projects, as well as a website built using Spring Boot.
 
-I also worked on two professional projects: one involving a worker architecture system, and another involving a SQL database along with an application designed to interact with it efficiently.
+I also have a personal server where I manage multiple Docker containers using Docker Compose.
 
 I have used or currently use the following technologies:
 
@@ -41,3 +43,6 @@ I have used or currently use the following technologies:
 
  Other:
   - HTML
+  - Docker/Compose
+  - Azure Dev Ops
+  - Git
